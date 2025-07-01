@@ -1,0 +1,16 @@
+[project]
+name = "00-quickstarts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipython>=9.3.0",
+    "langchain>=0.3.26",
+    "langchain-core>=0.3.67",
+    "langchain-ollama>=0.3.3",
+    "langchain-tavily>=0.2.5",
+    "langgraph>=0.5.0",
+    "langsmith>=0.4.4",
+    "python-dotenv>=1.1.1",
+]
